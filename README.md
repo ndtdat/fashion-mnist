@@ -26,4 +26,4 @@
 - Ngày nay, sự phát triển của của mạng tích chập cho thấy việc khái quát trở nên hiệu quả và đem lại cho hệ thống hiệu suất làm việc cao hơn.
 - Với cách tiếp cận bằng SVM ta thấy được rằng vẫn còn phải tối ưu hơn nữa. Trước đó ta đã sử dụng kết hợp PCA nhưng kết quả không mấy khả quan so với kỳ vọng.
 - Kiến trúc mạng CNN được thiết kế như sau:
-![CNN-Architecture](https://github.com/tiendat3550/fashion-mnist/CNN-Architecture.PNG?raw=true)
+![CNN-Architecture](https://github.com/tiendat3550/fashion-mnist/blob/main/CNN-Architecture.PNG)
