@@ -16,6 +16,7 @@
 ### Support Vector Machine (SVM)
 - SVM dùng để phân lớp dữ liệu nhị phân (tức chỉ có hai lớp).
 - Giải quyết bài toán 10 lớp với chiến lược one-vs-rest để xử lý 10 lớp cho bài toán này.
+- Kernel sử dụng là: Radial basis function.
 - Kết quả đạt được với độ chính xác accuracy khá cao: **89.21%**
 ### Kết hợp Principle Component Analysis (PCA)
 - Dữ liệu ban đầu có 784 chiều, có thể gây ra việc khái quát hóa không tốt cho mô hình.
@@ -27,3 +28,4 @@
 - Với cách tiếp cận bằng SVM ta thấy được rằng vẫn còn phải tối ưu hơn nữa. Trước đó ta đã sử dụng kết hợp PCA nhưng kết quả không mấy khả quan so với kỳ vọng.
 - Kiến trúc mạng CNN được thiết kế như sau:
 ![CNN-Architecture](https://github.com/tiendat3550/fashion-mnist/blob/main/CNN-Architecture.PNG)
+- Huấn luyện mô hình trong 40 epoch, kết quả thu được độ chính xác accuracy: **94.67%**
